@@ -1,5 +1,5 @@
 ﻿//Žemėlapyje atvaizduojami žemė ir vanduo (žemė - 1, vanduo - 0).
-//Surasti žemėlapyje esancias salas
+//Surasti žemėlapyje esančias salas
 
 //Žemėlapis (Šiame varijante turi būti 3 salos)
 int[,] zemelapis = new int[,]{
