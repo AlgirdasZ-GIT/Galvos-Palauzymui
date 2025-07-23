@@ -1,0 +1,14 @@
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\bin\Debug\net8.0\Paieška-Žemėlapyje_C#.exe
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\bin\Debug\net8.0\Paieška-Žemėlapyje_C#.deps.json
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\bin\Debug\net8.0\Paieška-Žemėlapyje_C#.runtimeconfig.json
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\bin\Debug\net8.0\Paieška-Žemėlapyje_C#.dll
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\bin\Debug\net8.0\Paieška-Žemėlapyje_C#.pdb
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\obj\Debug\net8.0\Paieška-Žemėlapyje_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\obj\Debug\net8.0\Paieška-Žemėlapyje_C#.AssemblyInfoInputs.cache
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\obj\Debug\net8.0\Paieška-Žemėlapyje_C#.AssemblyInfo.cs
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\obj\Debug\net8.0\Paieška-Žemėlapyje_C#.csproj.CoreCompileInputs.cache
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\obj\Debug\net8.0\Paieška-Žemėlapyje_C#.dll
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\obj\Debug\net8.0\refint\Paieška-Žemėlapyje_C#.dll
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\obj\Debug\net8.0\Paieška-Žemėlapyje_C#.pdb
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\obj\Debug\net8.0\Paieška-Žemėlapyje_C#.genruntimeconfig.cache
+C:\Users\azasi\source\repos\Paieška-Žemėlapyje_C#\Paieška-Žemėlapyje_C#\obj\Debug\net8.0\ref\Paieška-Žemėlapyje_C#.dll
